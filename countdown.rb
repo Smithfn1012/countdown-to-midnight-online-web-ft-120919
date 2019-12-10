@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(10)
   counter = 10
   while counter <= 0
   puts "We are #{counter} minutes from midnight!"
